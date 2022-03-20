@@ -1,15 +1,15 @@
-# Tamilini Music 🎸
+# Nobita Music 🎸
 
 ## Give your 💙
 
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/TamilBots/TamiliniMusic/fork">
+  <a href="https://github.com/NobitaShizuka07/NobitaMusic/fork">
     <img src="https://img.shields.io/github/forks/TamilBots/TamiliniMusic?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/TamilBots/TamiliniMusic">
+  <a href="https://github.com/NobitaShizuka07/NobitaMusic">
     <img src="https://img.shields.io/github/stars/TamilBots/TamiliniMusic?style=social">
   </a>
 </p>
@@ -72,7 +72,7 @@ $ python3 -m Tamilini
 ```
 </details>
   
-Not Getting VPS Method? Contact [Support ❤](https://t.me/TamilSupport)
+Not Getting VPS Method? Contact [Support ❤](https://t.me/Nobita_Supports)
   
 ### GET STRING SESSION FROM REPL RUN :
 
@@ -91,17 +91,17 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
 
-# Reach Me On Telegram : [🎸𝐓𝐚𝐦𝐢𝐥𝐢𝐧𝐢 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/TamiliniMusicBot)
+# Reach Me On Telegram : [N O B I T A ❤️ ＳＨＩＺＵＫＡ](https:t.me/NOBITA_OP_VC_BOT)
 
-![logo](https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg)
+![logo](https://te.legra.ph/file/d2f4189ab9cc2b93e1a26.jpg)
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots) 🤖
+## Made with ❤️ By [NobitaBots](https://t.me/NOBITA_OP_VC_BOT) 🤖
 
 # Report Any Error or Help Contact :
 
-<a href="http://t.me/TamilBots"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
+<a href="http://t.me/Nobita_Ki_Duniya"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
 
-<a href="http://t.me/TamilSupport"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
+<a href="http://t.me/Nobita_Supports"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
 
 ##### Credits :
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
